@@ -1,0 +1,7 @@
+SNAKE
+
+Win the game to reveal the flag.
+
+-JD (sr.)
+
+https://snake-2024.pages.dev/snake.html
