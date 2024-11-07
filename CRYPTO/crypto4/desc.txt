@@ -1,0 +1,7 @@
+Barcode Crypto
+
+These barcodes seem to be missing something, can you help me figure it out?
+
+-AcerYeung
+
+(file: barcode.txt)

@@ -1,0 +1,7 @@
+Oh Baby, A (Pythagorean) Triple
+
+https://gist.github.com/AndyNovo/747a027b87924e02202436668382630d
+
+I bet you never knew about the DNA of right triangles.  Found it beautiful; wrote a problem.
+
+-ProfNinja
