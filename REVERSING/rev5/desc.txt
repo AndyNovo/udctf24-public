@@ -1,0 +1,7 @@
+Training Problem: Intro to Rev
+
+Just a classic flagchecker.
+
+-ProfNinja
+
+(Try using dogbolt.org)
