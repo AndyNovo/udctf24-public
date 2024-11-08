@@ -1,0 +1,7 @@
+Training Problem: Intro to PWN
+
+Classic win function pwn.
+
+-ProfNinja
+
+nc 0.cloud.chals.io 13545

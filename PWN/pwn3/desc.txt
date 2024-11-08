@@ -1,0 +1,7 @@
+Pure Write-What-Where PWN
+
+Straight to the point.
+
+-ProfNinja
+
+nc 0.cloud.chals.io 16612
